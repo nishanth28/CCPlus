@@ -5,4 +5,5 @@ An Apple calculator clone.
 
 ###Screenshots 
 
-![image](https://cloud.githubusercontent.com/assets/11078225/21994225/a086da5c-dbec-11e6-873f-0f4886aeae83.png)
+![calculator-mockup](https://cloud.githubusercontent.com/assets/11078225/22159945/467c5604-df11-11e6-8ea0-019a9b4ecafc.png)
+
